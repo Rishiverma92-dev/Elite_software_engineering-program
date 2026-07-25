@@ -1,0 +1,95 @@
+ESP-365 (Elite Software Engineer Program)
+
+We'll build you in 6 phases.
+
+Phase 1 – Core Engineer (Next 45 Days)
+
+Goal: Become confident in what you've already learned.
+
+Python mastery through coding
+SQL fundamentals
+HTML/CSS/JS revision by building
+Django CRUD + Authentication
+Git & GitHub
+Linux basics
+Daily DSA (Arrays, Strings, Hash Maps)
+
+Deliverables:
+
+5 mini projects
+150+ coding problems
+GitHub profile with clean commits
+Phase 2 – Frontend Engineer
+React
+React Router
+Hooks
+API integration
+State management
+Responsive UI
+
+Projects:
+
+Todo App
+Weather App
+Expense Tracker
+E-commerce Frontend
+Phase 3 – Backend Engineer
+Django REST Framework
+JWT
+PostgreSQL
+Authentication
+Permissions
+Caching
+Redis
+Celery
+WebSockets
+
+Projects:
+
+Blog API
+Chat App
+URL Shortener
+Notes API
+Phase 4 – CS Foundations
+
+Every company asks these.
+
+DSA
+DBMS
+Operating Systems
+Computer Networks
+OOP
+Design Patterns
+
+Target:
+300–500 quality coding problems.
+
+Phase 5 – Production Engineering
+Docker
+Linux
+AWS basics
+Nginx
+CI/CD
+Deployment
+Testing
+Logging
+Monitoring
+
+Projects:
+Deploy everything publicly.
+
+Phase 6 – Interview Mode
+Mock interviews
+Resume
+LinkedIn
+HR questions
+System Design
+Advanced DSA
+Company-specific preparation
+Rules of ESP
+Never skip practice.
+Every concept must become code.
+Every project goes to GitHub.
+Every bug is a lesson.
+No tutorial without implementation.
+If you get stuck for more than 45 minutes, ask for help—but first explain what you tried.
