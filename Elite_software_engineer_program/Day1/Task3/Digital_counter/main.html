@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Counter</title>
+
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body{
+            background-color: antiquewhite;
+            text-align: center;
+            font-family: sans-serif;
+        }
+        .counter{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top:10px;
+            border:2px solid black;
+            
+        }
+        button{
+            padding: 8px 10px;
+            margin-top:10px;
+            cursor:pointer;
+        }
+
+    </style>
+    
+</head>
+<body>
+    <h1>Digital Counter</h1>
+    <div id="counter">0</div>
+<button onclick="increase()">➕ Increase</button>
+  <button onclick="decrease()">➖ Decrease</button>
+  <button onclick="reset()">🔄 Reset</button>
+    
+    <script src="main.js"></script>
+</body>
+</html>

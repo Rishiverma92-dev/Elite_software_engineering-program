@@ -1,3 +1,22 @@
 Database : Database is a collecion in a format that can be easily accessed(Digital)
 A software application used to manage our DB is called DBMS(Database Management System)
 
+Types of database :-
+Relational : RDBMS
+=>Data stored in tabels
+eg : MySQL , SQL Server , ORACLE , PostgreSQL
+**We use sql to work with relational DBMS**
+Non-relational(NoSQL):
+=>Data not stored in tabels
+eg : mongoDB
+
+What is SQL?
+=> Structured Query Language:-
+   SQL is a programming language used to interact with relational databases.
+   it is used to perform CRUD operations : 
+   => Create , Read , Update , Delete
+pehle its also called SEQUEL : Strunctured English Query Language.
+
+Database structure :-
+Tabel1 ,  Tabel2...: Interrelated data stored in tabels
+made up of rows(horizontal) and columnn(vertical) :
